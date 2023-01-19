@@ -42,4 +42,4 @@ Made by
 
 ## Version
 * 0.1
-  * Initial release ~ Jan 2022
+  * Initial release ~ Jan 2023
