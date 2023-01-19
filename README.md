@@ -10,8 +10,8 @@ In this task I have build one-way graphs with weights for the arcs.
 There are 5 function that this program can help us do:
 
 * creating new graph
-* adding new vetex for the graph
-* deleting vetex from the graph
+* adding new vertex for the graph
+* deleting vertex from the graph
 * printing the shortest path - using dijkstra alorithm
 * printing the graph TSP 
 
@@ -30,7 +30,7 @@ run the program by:
 ./graph
 ```
 
-* deleat exe files by the command:
+* delete exe files by the command:
 ```
 make clean
 ```
